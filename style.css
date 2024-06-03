@@ -2,3 +2,13 @@ html {
   height: 100%;
   width: 100%;
 }
+button {
+    background-color: #ffffff;
+    transition: background-color 0.3s;
+}
+button:hover {
+    background-color: red;
+}
+button {
+    border-radius: 50px;
+}
